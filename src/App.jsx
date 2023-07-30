@@ -1,7 +1,12 @@
+import Header from "./components/header"
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+    <Header/>
+
+
+    </>
   )
 }
 
